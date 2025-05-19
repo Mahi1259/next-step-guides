@@ -1,12 +1,12 @@
-NextStep
+# NextStep
 
 A platform that visualizes unconventional career paths as interactive skill trees, helping underrepresented groups discover accessible pathways to meaningful work.
 
-About
+# About
 
 NextStep connects underrepresented groups with verified mentors who share their real experiences, practical tips, and curated resources. Career paths are visualized as interactive skill trees, making it easy to understand progression steps.
 
-Features
+# Features
 
 Interactive Skill Trees: Navigate through career paths with clear progression steps
 Expert Mentorship: Learn from professionals with real-world advice
