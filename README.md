@@ -14,9 +14,9 @@ Progress Tracking: Track your journey and get personalized recommendations
 Contribution System: Mentors can contribute expertise or create new career paths
 AI Career Path Generator: Explore AI-generated career paths based on your interests
 
-Getting Started
+## Getting Started
 
-Installation
+## Installation
 # Clone the repository
 git clone https://github.com/Mahi1259/next-step-guides.git
 cd next-step-guides
@@ -27,6 +27,7 @@ npm install
 # Run the development server
 npm run dev
 
+Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Technologies
 
